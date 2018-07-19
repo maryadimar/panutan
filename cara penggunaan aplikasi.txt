@@ -1,0 +1,10 @@
+1. jalankan aplikasi
+2. tekan tombol menu ar camera
+3. setelah camera aktif, pilih menu virus untuk memilih nama virus yang ingin 
+ditampilkan
+4. lakukan langkah yang sama untuk menukar virus
+5. klik info untuk melihat informasi
+6. klik dengar dengan ikon play untuk mendengarkan informasi
+7. klik crop untuk melihat bagian dalam virus
+6. klik atur ulang posisi untuk kembali tertutup
+7. klik lihat struktur untuk mengetahui nama-nama struktur dari virus
